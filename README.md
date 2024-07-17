@@ -280,6 +280,4 @@ La herramienta seleccionada para el tablero Kanban fue Azure DevOps.
 
 - Se tomaron cuatro etapas para el desarrollo cada una con sus Epics - Features - Historias de Usuario y Task.
 
-![Tablero Kanban](img/Azure_DevOps.png)
-
-![Tablero Kanban](img/AzureDevOps_2daParte.png)
+![Tablero Kanban](img/AzureDevOps.jpg)

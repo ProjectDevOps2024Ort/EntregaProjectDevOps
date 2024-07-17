@@ -52,6 +52,7 @@
         - [Detalles del Análisis](#detalles-del-análisis-3)
         - [Recomendaciones](#recomendaciones-3)
   - [Testing de la aplicación](#testing-de-la-aplicación)
+  - [Evidencia de Tablero Kanban](#evidencia-de-tablero-kanban)
 
 ## Presentación del problema
 Durante la transformación digital de una empresa líder en retail surgió un desafío significativo en la integración de equipos de desarrollo y operaciones. Este problema se manifestó durante el lanzamiento de una nueva aplicación destinada a mejorar la experiencia de compra de los clientes donde los despliegues de nuevas versiones resultaron en errores y caídas del sistema.
@@ -272,3 +273,13 @@ En el repositorio donde Orders se detectaron vulnerabilidades y fallas de seguri
 Se implementó una solución en AWS Lambda para realizar el testing de los microservicios Backend mediante la implementación de pruebas con Newman/Postman pero no se terminó de implementar en su totalidad.
 
 Por lo que no se cuenta con evidencia de los testeos realizados.
+
+## Evidencia de Tablero Kanban
+
+La herramienta seleccionada para el tablero Kanban fue Azure DevOps.
+
+- Se tomaron cuatro etapas para el desarrollo cada una con sus Epics - Features - Historias de Usuario y Task.
+
+![Tablero Kanban](img/Azure_DevOps.png)
+
+![Tablero Kanban](img/AzureDevOps_2daParte.png)
